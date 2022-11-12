@@ -11,6 +11,17 @@ export default {
             options:{
                 hotspot: true,
             }
-        }
+        },
+        {
+            name:'name',
+            title:'Name',
+            type:'string',
+        },
+        {
+            name:'slug',
+            title:'Slug',
+            type:'slug',
+        },
+
     ]
 }

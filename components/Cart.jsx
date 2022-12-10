@@ -1,9 +1,7 @@
 import React from 'react'
 
 const Cart = () => {
-  return (
-    
-    <div>cart sweet</div>
+  return (<div>cart sweet</div>
   )
 }
 
